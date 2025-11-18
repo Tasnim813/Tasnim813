@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tasnim jahan</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Tasnim813">
-    <img src="https://komarev.com/ghpvc/?username=Tasnim813&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tasnim813's profile views" height="10" />
-  </a>
-</p>
 
-<img src="https://camo.githubusercontent.com/255129c4904852c6eb8cb3da2bcd144be1cbeb594631451990738dc813823ded/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38622f33352f66652f38623335666566353566626131613230316339633761313164336563336436342e676966" alt="Banner" width="100%" />
+
+<img src="https://camo.githubusercontent.com/255129c4904852c6eb8cb3da2bcd144be1cbeb594631451990738dc813823ded/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38622f33352f66652f38623335666566353566626131613230316339633761313164336563336436342e676966" alt="Banner" width="100%" height="400" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on full-stack web development projects.
@@ -26,7 +22,8 @@
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
+<div>
+  ### Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
 ### Frontend
@@ -37,6 +34,7 @@
 
 ### Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+</div>
 
 ### Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
