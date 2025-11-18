@@ -1,27 +1,19 @@
-## Hi there 👋
-
-
-**Tasnim813/Tasnim813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Tasnim jahan</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tasnim813">
-    <img src="https://komarev.com/ghpvc/?username=Tasnim813&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tasnim813's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Tasnim813&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tasnim813's profile views" height="10" />
   </a>
 </p>
 
 <img src="https://camo.githubusercontent.com/255129c4904852c6eb8cb3da2bcd144be1cbeb594631451990738dc813823ded/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38622f33352f66652f38623335666566353566626131613230316339633761313164336563336436342e676966" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🔭 I’m currently working on full-stack web development projects.
+- 🌱 I’m learning advanced React.js and backend development with Node.js and MongoDB.
+- 🤔 I’m looking for opportunities to collaborate on innovative projects.
+- ⚡ Fun fact: I love exploring new technologies and building creative solutions.
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -56,12 +48,7 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:tasnim3j@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
 
