@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasnim jahan</h1>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=TASNIM%20JAHAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer&descAlignY=55&descSize=20" />
 
 
 <img src="https://camo.githubusercontent.com/255129c4904852c6eb8cb3da2bcd144be1cbeb594631451990738dc813823ded/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38622f33352f66652f38623335666566353566626131613230316339633761313164336563336436342e676966" alt="Banner" width="100%" height="400" />
