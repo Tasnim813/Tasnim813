@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tasnim jahan</h1>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=TASNIM%20JAHAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer&descAlignY=55&descSize=20" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=TASNIM%20JAHAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
 
 ### 👩‍💻 About Me  
-Hi! I'm Tasnim Jahan — a passionate **Frontend Developer** from Bangladesh.  
+Hi! I'm Tasnim Jahan — a passionate **MERN Stack Developer** from Bangladesh.  
 I love building modern, responsive, and user-friendly web applications.
 
 - 🌱 I’m currently exploring **Next.js**  
 - 🔭 I’m working on a **Tourism-based web app**  
 - ⚡ I enjoy designing beautiful UI with **Tailwind & Framer Motion**  
 - 📍 Location: Sylhet, Bangladesh  
-- 📧 Email: tasnim3j@gmail.com.com  
-
----
+ 
 
 ### 🛠️ Skills  
 <p align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
